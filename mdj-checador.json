@@ -1,0 +1,10 @@
+{
+  "app": "MDJ Checador",
+  "version": "1.0.5",
+  "versionCode": 6,
+  "android": "Android 7 (API 24) o posterior",
+  "sha256": "424d865f46c23029998150323d28a32c6783d6916f2af759a7f76e5442a3956c",
+  "tamano": 57809,
+  "servidorMinimo": "0.9.0",
+  "construidaUtc": "2026-11-11T22:48:30.8610496Z"
+}
