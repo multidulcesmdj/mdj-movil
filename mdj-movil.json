@@ -1,10 +1,10 @@
 {
   "app": "MDJ Móvil",
-  "version": "1.4.0",
-  "versionCode": 8,
+  "version": "1.5.0",
+  "versionCode": 9,
   "android": "Android 7 (API 24) o posterior",
-  "sha256": "229f15fbcb7332a5d701f9914d94ac692434bfaa8cb252e5e6409f1e1d72a5d7",
-  "tamano": 82385,
+  "sha256": "f4e924e23fa88dd42dbfa33449ac7f2577eaf0baf5cf3a96fabf96a06c2d4278",
+  "tamano": 86481,
   "servidorMinimo": "0.9.130",
-  "construidaUtc": "2026-11-17T07:53:30.0940274Z"
+  "construidaUtc": "2026-11-17T14:19:17.6483722Z"
 }
